@@ -8,7 +8,6 @@ body {
   margin: 0;
   padding: 30px;
   text-align: center;
-  flex-wrap: wrap;
 }
 #details {
   background-color: red;
