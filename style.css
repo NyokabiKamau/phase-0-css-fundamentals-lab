@@ -1,5 +1,22 @@
+h1,
+nav {
+  text-align: center;
+}
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+  padding: 30px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+#details {
+  background-color: red;
+  display: flex;
+  gap: 70px;
+  justify-content: space-around;
+}
+#featured-property {
+  padding-left: 250px;
+  padding-right: 250px;
 }
